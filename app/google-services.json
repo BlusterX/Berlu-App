@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622948009272",
+    "project_id": "app-berlu",
+    "storage_bucket": "app-berlu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622948009272:android:b52b4b319b8070e97a2dcd",
+        "android_client_info": {
+          "package_name": "com.example.berluapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnGnyjXB-XJtFQWjskAM4LfHl2yP6_mvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
